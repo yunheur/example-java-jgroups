@@ -1,1 +1,5 @@
-# example-java-jgroups
+# JGroups 예제
+
+### chat
+
+- 콘솔에서 메시지를 주고 받을 수 있는 채팅 프로그램
