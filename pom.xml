@@ -8,5 +8,14 @@
     <artifactId>example-java-jgroups</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/org.jgroups/jgroups -->
+        <dependency>
+            <groupId>org.jgroups</groupId>
+            <artifactId>jgroups</artifactId>
+            <version>5.0.0.Alpha2</version>
+        </dependency>
+
+    </dependencies>
 
 </project>
